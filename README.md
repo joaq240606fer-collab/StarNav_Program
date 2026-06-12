@@ -145,20 +145,28 @@ Cuando el sistema principal se ejecute, la consola debe mostrar exactamente esto
 
 === INICIANDO SISTEMA STARNAV ===
 [INFO] Registrando naves en la flota...
-[OK] Nave 'Enterprise' registrada con éxito.
-[OK] Nave 'Milano' registrada con éxito.
+
+[OK] Nave 'Enterprise' registrada con éxito. 
+
+[OK] Nave 'Milano' registrada con éxito. 
 
 === BUSCANDO NAVES (Uso de Optionals) ===
 ¿Existe la nave NX-01?: SÍ -> Nombre: Enterprise | Misión: EXPLORACION (Peligro: 1)
+
 ¿Existe la nave X-WING?: NO -> Nave no encontrada en el radar.
 
 === REPORTE DE ACTUALIZACIÓN (CRUD - Update) ===
+
 [UPDATE] Actualizando combustible de la Milano...
+
 ¡Combustible actualizado con éxito a 95.5%!
 
 === LISTADO COMPLETO DE LA FLOTA (Loops No Cableados) ===
+
 Nave 1: ID: NX-01 | Nombre: Enterprise | Combustible: 100.0L
+
 Nave 2: ID: M-01 | Nombre: Milano | Combustible: 95.5L
+
 =================================
 
 
